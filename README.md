@@ -48,8 +48,8 @@ This is the Screenshot of the projects a made!
 
 There is the link of the projects:
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-ZiGdRmpMOX)
+- Live Site URL: [live site URL here](https://fem-single-price-grid-component-blush.vercel.app/)
 
 ## Author
 
